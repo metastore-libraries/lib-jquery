@@ -1,0 +1,36 @@
+{
+	"name": "metastore/lib-jquery",
+	"type": "library",
+	"description": "JavaScript library for DOM operations. jQuery library for METADATA projects.",
+	"license": "MIT",
+	"homepage": "https://metastore.pro",
+	"keywords": [
+		"metadata",
+		"metastore",
+		"jquery",
+		"javascript",
+		"browser",
+		"library"
+	],
+	"authors": [
+		{
+			"name": "Kitsune Solar",
+			"email": "kitsune.solar@gmail.com",
+			"homepage": "https://kitsune.solar",
+			"role": "Developer"
+		}
+	],
+	"support": {
+		"email": "support@metastore.pro",
+		"issues": "https://gitlab.com/metastore/libraries/lib-jquery/issues",
+		"forum": "https://webmasters.community",
+		"wiki": "https://webmasters.wiki",
+		"source": "https://gitlab.com/metastore/libraries/lib-jquery"
+	},
+	"config": {
+		"preferred-install": "dist",
+		"sort-packages": true
+	},
+	"minimum-stability": "dev",
+	"prefer-stable": true
+}
