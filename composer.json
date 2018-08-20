@@ -14,6 +14,10 @@
 	],
 	"authors": [
 		{
+			"name": "JS Foundation and other contributors",
+			"homepage": "https://github.com/jquery/jquery/blob/master/AUTHORS.txt"
+		},
+		{
 			"name": "Kitsune Solar",
 			"email": "kitsune.solar@gmail.com",
 			"homepage": "https://kitsune.solar",
