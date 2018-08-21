@@ -2,7 +2,9 @@
 	"name": "metastore/lib-jquery",
 	"type": "library",
 	"description": "JavaScript library for DOM operations. jQuery library for METADATA projects.",
-	"license": "MIT",
+	"license": [
+		"MIT"
+	],
 	"homepage": "https://metastore.pro",
 	"keywords": [
 		"metadata",
